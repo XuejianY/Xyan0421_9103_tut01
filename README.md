@@ -9,7 +9,7 @@ I am inspired by pointillism, especially the work of Georges Seurat. Pointillism
 Pointillism and programming complement each other, mainly because both rely on many small elements (such as dots or pixels) to build a complex image. 
 
   ![Paul Signac, Femmes au Puits, 1892, showing a detail with constituent colors. Musée d'Orsay, Paris](readmeImages/pointillism2.jpg)
-*Paul Signac, Femmes au Puits, 1892, showing a detail with constituent colors. Musée d'Orsay, Paris*
+*Showing a detail with constituent colors. Musée d'Orsay, Paris*
 
 Through programming, the artist can precisely control the color, size and position of each dot, resulting in complex effects and dynamics. In addition, programming can incorporate Perlin noise and randomness, using these techniques to drive animation effects and add a sense of dynamism to the work.
 
